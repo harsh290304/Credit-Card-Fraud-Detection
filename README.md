@@ -1,2 +1,24 @@
 # Credit-Card-Fraud-Detection
-A Machine Learning project that detects fraudulent credit card transactions using Logistic Regression and data preprocessing techniques. The project includes feature scaling, model training, prediction, and performance evaluation on an imbalanced dataset.
+# Credit Card Fraud Detection
+
+## Overview
+This project uses Machine Learning techniques to detect fraudulent credit card transactions.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Google Colab
+
+## ML Techniques
+- Logistic Regression
+- StandardScaler
+- Train-Test Split
+
+## Results
+- Training Accuracy: 95%
+- Testing Accuracy: 92%
+
+## Dataset
+Credit Card Fraud Detection Dataset
